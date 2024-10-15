@@ -1,1 +1,1 @@
-Projek do skoly
+Projek do skoly pouzivani turtle v pythonu
